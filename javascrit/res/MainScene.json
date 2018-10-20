@@ -1,0 +1,120 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "3.10.0.0",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "lg_bg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 316,
+            "Scale9OriginY": 211,
+            "Scale9Width": 702,
+            "Scale9Height": 328,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 667.0,
+              "Y": 375.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 5,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "lg_kai.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 122,
+                "Scale9OriginY": 46,
+                "Scale9Width": 128,
+                "Scale9Height": 50,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 172.3766,
+                  "Y": 674.3766
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1292,
+                  "Y": 0.8992
+                },
+                "PreSize": {
+                  "X": 0.2789,
+                  "Y": 0.1893
+                },
+                "LeftMargin": -13.6234,
+                "RightMargin": 975.6234,
+                "TopMargin": 4.6234,
+                "BottomMargin": 603.3766,
+                "Tag": 6,
+                "ActionTag": -874209273,
+                "Size": {
+                  "X": 372.0,
+                  "Y": 142.0
+                },
+                "Name": "Image_3",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -177243395,
+            "Size": {
+              "X": 1334.0,
+              "Y": 750.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1334.0,
+          "Y": 750.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "lg_bg.png",
+        "lg_kai.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}
